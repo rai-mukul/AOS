@@ -1,0 +1,4 @@
+p1_bursttime:6
+p2_bursttime:8
+p3_bursttime:7
+p4_bursttime:3

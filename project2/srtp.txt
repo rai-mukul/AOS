@@ -1,0 +1,3 @@
+processid's:1,2,3,4
+bursttime:8,4,9,5
+arrivaltime:0,1,2,3

@@ -1,0 +1,4 @@
+processid's:1,2,3
+bursttime:24,3,3
+arrival:0,0,0
+qunatum:4
